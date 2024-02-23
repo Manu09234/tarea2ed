@@ -1,0 +1,3 @@
+#Ignoro todos los archivos con extenson .pdf 
+
+*.pdf
